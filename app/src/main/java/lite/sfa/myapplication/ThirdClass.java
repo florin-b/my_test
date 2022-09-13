@@ -10,4 +10,8 @@ public class ThirdClass {
     public void someFunction(){
         //TODO_HERE
     }
+
+    public void masterFunction(){
+        //
+    }
 }
