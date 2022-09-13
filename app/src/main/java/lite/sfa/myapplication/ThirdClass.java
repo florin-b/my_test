@@ -2,8 +2,12 @@ package lite.sfa.myapplication;
 
 public class ThirdClass {
 
-    public void thitdFunction(){
+    public void thirdFunction(){
         //nothing
     }
 
+
+    public void someFunction(){
+        //TODO_HERE
+    }
 }
