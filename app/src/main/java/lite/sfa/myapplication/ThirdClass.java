@@ -14,4 +14,8 @@ public class ThirdClass {
     public void masterFunction(){
         //
     }
+
+    public void second_branch(){
+        //
+    }
 }
